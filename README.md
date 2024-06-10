@@ -6,6 +6,8 @@ This project demonstrates how to create an animated background with colored dots
 
 You can see a live demo of the project [here](https://logusivam.github.io/Pure_CSS_colordot_bg/).
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 ## Features
 
 - **Pure CSS**: The effect is achieved using only CSS, without any JavaScript.
